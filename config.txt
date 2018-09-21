@@ -1,0 +1,3 @@
+token=NDkxMTI5NTMyNTE5MDIyNTkz.DoDY0A.fNk_ePVMPq7nOiodJw5-9E9Ul7k
+owner=394474555143356426
+prefix = A
